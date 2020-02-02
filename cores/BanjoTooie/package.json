@@ -1,0 +1,11 @@
+{
+  "name": "BanjoTooie",
+  "version": "0.1.0",
+  "description": "",
+  "main": "BanjoTooie.js",
+  "author": "SpiceyWolf, NickPop123",
+  "credits": "",
+  "license": "GPL3",
+  "core": "BanjoTooie",
+  "updateUrl": "https://raw.githubusercontent.com/hylian-modding/Core-BanjoTooie/master/update.json"
+}

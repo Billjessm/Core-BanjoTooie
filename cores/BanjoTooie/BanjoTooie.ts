@@ -7,7 +7,7 @@ import {
 import { IRomHeader } from 'modloader64_api/IRomHeader';
 import { VersionHandler } from './src/VersionHandler';
 import IMemory from 'modloader64_api/IMemory';
-import * as API from './API/BT/Imports';
+import * as API from './API/Imports';
 
 // ##################################################################
 // ##  Sub-Classes

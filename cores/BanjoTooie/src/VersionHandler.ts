@@ -1,4 +1,4 @@
-import * as API from '../API/BT/Imports';
+import * as API from '../API/Imports';
 
 export namespace VersionHandler {
   export function load_aus_1_0() {
